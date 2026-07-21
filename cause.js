@@ -1,22 +1,22 @@
  const reasons = [
     { 
-        text: "💕Do you know that I am the luckiest person because I have you? Having you in my life is the greatest blessing I could ever have.✨", 
-        emoji: "🌟",
+        text: "Do you know that I am the luckiest person because I have you? Having you in my life is the greatest blessing I could ever have.✨", 
+        emoji: "💕",
         gif: "a.webp",
     },
     { 
-        text: "🌸Please stay by my side for my whole life.💕", 
-        emoji: "💗",
+        text: "Please stay by my side for my whole life.💕", 
+        emoji: "🌸",
         gif: "b.webp",
        
     },
     { 
-        text: "💓I hope you are always happy, peaceful, and surrounded by beautiful moments.🌸 I hope you get to eat lots of delicious sweets.🤪💓", 
-        emoji: "💕",
+        text: "I hope you are always happy, peaceful, and surrounded by beautiful moments.🌸 I hope you get to eat lots of delicious မုန့်မုန့်.🤪💓", 
+        emoji: "💓",
         gif: "f.webp",
     },
     { 
-        text: "🌟Please keep being the same person you are now — sometimes like a little baby, sometimes like mommy, sometimes like my best friend . Please continue to be my everything.🌸", 
+        text: "Please keep being the same person you are now — sometimes like a little baby, sometimes like mommy, sometimes like my best friend . Please continue to be my everything.🌸", 
         emoji: "🌟",
         gif: "g.webp",
     }
