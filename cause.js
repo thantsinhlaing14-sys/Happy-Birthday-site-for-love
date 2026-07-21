@@ -1,22 +1,22 @@
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "💕Do you know that I am the luckiest person because I have you? Having you in my life is the greatest blessing I could ever have.✨", 
         emoji: "🌟",
         gif: "a.webp",
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "🌸Please stay by my side for my whole life.💕", 
         emoji: "💗",
         gif: "b.webp",
        
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "💓I hope you are always happy, peaceful, and surrounded by beautiful moments.🌸 I hope you get to eat lots of delicious sweets.🤪💓", 
         emoji: "💕",
         gif: "f.webp",
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "🌟Please keep being the same person you are now — sometimes like a little baby, sometimes like mommy, sometimes like my best friend . Please continue to be my everything.🌸", 
         emoji: "🌟",
         gif: "g.webp",
     }
