@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function(){
 });
 
 // Typing effect for greeting
-const greetingText = "💕Today is your day, so enjoy every moment with the happiest heart and wear your most beautiful smile.I love you sooooooo much, ကလေးလေး သေးသေးလေး ဝက်ပေါက်လေး အူမွအူမွလေး💖";
+const greetingText = "🎉Happy birthday ပါကလေးလေး 🥳ကိုကို့ချစ်ဆုံးလေး များကြီးများကြီး ချစ်တာကလေးလေးကို အာဘွား မွမွမွမွမွ😚😚😚 ၊ကလေးလေး သိလား လွန်ခဲ့တဲ့ ၂၁နှစ်ဒီလိုနေ့မျိုးမှာ အလှဆုံးအပြုံးပိုင်ရှင်လေးကိုမွေးဖွားခဲ့တာတဲ့ 😚💕";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
